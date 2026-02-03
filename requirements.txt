@@ -1,28 +1,8 @@
-# Core AI Framework
-crewai
-langchain
-langchain-community
-transformers
-torch
-accelerate
-bitsandbytes
-
-# Web & API
-fastapi
-uvicorn
-streamlit
-
-# Data Science & Analytics
 pandas
 numpy
-matplotlib
-seaborn
 scikit-learn
 xgboost
 shap
+matplotlib
+streamlit
 
-# Database & Infrastructure
-chromadb
-faiss-cpu
-python-dotenv
-pydantic
