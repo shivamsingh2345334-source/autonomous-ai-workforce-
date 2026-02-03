@@ -1,46 +1,48 @@
-# 🧠 Autonomous AI Workforce for Real-World Decision Making
-
-### *Transforming Raw Data into Executive Actions with Multi-Agent Intelligence*
-
----
+# 🧠 Employee Attrition AI Agent (Explainable AI)
 
 ## 🚀 Overview
-This isn't just another AI script. This is an **Integrated Agentic System** designed to function as a synthetic corporation. It automates the entire lifecycle of data—from cleaning messy datasets to training predictive models and generating board-room ready reports—without human intervention.
+An industry-grade AI system that predicts employee attrition and explains
+the reasons behind predictions using Explainable AI (SHAP).
 
-**Live Demo:** ["https://huggingface.co/spaces/SHIVAM283893rwf/autonomous-ai-workforce"]  
-**Built for:** Global Startups, FinTech, and Data-Driven Enterprises.
-
----
-
-## 🛠️ The Architecture (The "Brain" Behind the Work)
-
-The system operates using a **Multi-Agent Orchestration** layer where specialized AI Agents collaborate, argue, and refine outputs.
-
-
-
-### 👥 The Synthetic Team:
-1.  **🧠 The Planner Agent:** Deconstructs complex user prompts into executable technical tasks.
-2.  **📊 The Data Analyst Agent:** Writes and executes Python/SQL code to perform EDA and Bias Detection.
-3.  **🤖 The ML Engineer Agent:** Automatically selects the best algorithm (XGBoost/Mistral) and handles model training.
-4.  **🕵️ The Critic Agent:** Audits every output for hallucinations, bias, and technical errors.
-5.  **📑 The Report Writer:** Synthesizes technical data into strategic business insights (PDF/Dashboard).
+This project simulates a real-world HR Analytics AI system used by
+companies to reduce employee churn and support executive decisions.
 
 ---
 
-## ⚡ Key Features
-- **Bias Detection & Ethics:** Built-in "FairHire" logic to detect discrimination in datasets.
-- **Agentic Reasoning:** Agents use ReAct (Reason + Act) prompting for logical consistency.
-- **Production Ready:** Fully containerized with Docker and served via FastAPI.
-- **Explainable AI (XAI):** Uses SHAP/LIME logic to explain *why* the AI made a certain decision.
+## 🔍 Key Features
+- Employee Attrition Prediction (Yes / No)
+- XGBoost-based ML model
+- SHAP Explainability (feature-level reasoning)
+- Business insight generation
+- Streamlit interactive dashboard
+- Ready for deployment & demo
 
 ---
 
-## 🏗️ Tech Stack
-- **Core:** Python 3.10+
-- **LLM Orchestration:** CrewAI / LangChain
-- **Models:** Mistral-7B (Quantized), LLaMA-3
-- **Deployment:** Docker, Streamlit, Hugging Face Spaces
-- **Vector DB:** FAISS (for RAG-based context)
+## 🛠 Tech Stack
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- XGBoost
+- SHAP
+- Streamlit
 
 ---
+
+## 🌍 Live Demo (Hugging Face)
+🔗 https://huggingface.co/spaces/SHIVAM283893rwf/autonomous-ai-workforce
+
+---
+
+## 📊 Use Case
+• HR Analytics  
+• Workforce Planning  
+• People Intelligence  
+• Attrition Risk Assessment  
+
+---
+
+## 👨‍💻 Author
+**Shivam Singh**  
+Aspiring AI Engineer | Explainable AI | Business ML Systems
 
